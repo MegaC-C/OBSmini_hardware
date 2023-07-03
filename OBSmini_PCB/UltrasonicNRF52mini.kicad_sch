@@ -1,0 +1,52 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A4")
+
+  (title_block
+    (title "nRF52833-QDAA Ref. Layout (DCDC, VDDH supply)")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 24.13 60.96) (size 53.34 16.51) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0805b7db-4074-4273-b6b5-cb6c9b40ac78)
+    (property "Sheetname" "Ultrasonic" (at 24.13 60.2484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Ultrasonic.kicad_sch" (at 24.13 78.0546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UltrasonicNRF52mini"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 24.13 26.67) (size 54.61 16.51) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid bf04e794-a220-4a43-9fd5-17a4d02fd218)
+    (property "Sheetname" "nRF52833" (at 24.13 25.9584 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "nRF52833.kicad_sch" (at 24.13 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "UltrasonicNRF52mini"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
