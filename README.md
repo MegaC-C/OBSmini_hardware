@@ -12,7 +12,7 @@ However, they are primarily optimized for availability and cost-effectiveness, p
 
 5 PCBs cost 50€ (including parts, assembly and shipping).
 
-[OBSmini_PCB.pdf](https://github.com/MegaC-C/OBSmini_hardware/files/11957442/OBSmini_PCB.pdf)
+[OBSmini_Schematic.pdf](https://github.com/MegaC-C/OBSmini_hardware/files/11957442/OBSmini_PCB.pdf)
 
 ![OBSmini_PCB_TOP](https://github.com/MegaC-C/OBSmini_hardware/assets/59622754/084783b6-e975-47cb-9078-59f3e9be8290)
 ![OBSmini_PCB_BOTTOM](https://github.com/MegaC-C/OBSmini_hardware/assets/59622754/677102eb-12ff-4518-bbf8-132eba382837)
