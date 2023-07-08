@@ -3,7 +3,7 @@ This repository includes all the essential PCB and 3D printing files required fo
 
 
 
-## Main PCB
+## PCB
 
 The Bill of Materials (BOM) and layout take inspiration from the reference designs mentioned in the schematic. 
 However, they are primarily optimized for availability and cost-effectiveness, particularly for assembly services provided by JLCPCB.
