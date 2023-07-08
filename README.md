@@ -29,6 +29,6 @@ This is simply a PCB antenna tuned to the NFC pins of the nRF52833.
 
 ## 3D Printed Case
 
-more too come...
+Fusion 360 Project and three .stl files of OBSmini Case (Top, Spacer, Bottom).
 
-![Screenshot 2023-07-03 162511](https://github.com/MegaC-C/OBSmini_hardware/assets/59622754/789eb938-b8c1-4b70-9bcf-f51d8a774445)
+![Screenshot 2023-07-08 212122](https://github.com/MegaC-C/OBSmini_hardware/assets/59622754/62c33ec2-d646-4da2-b240-8285e00e3110)
