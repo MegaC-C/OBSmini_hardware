@@ -3,7 +3,7 @@ This repository includes all the essential PCB and 3D printing files required fo
 
 
 
-## PCB
+## Main PCB
 
 The Bill of Materials (BOM) and layout take inspiration from the reference designs mentioned in the schematic. 
 However, they are primarily optimized for availability and cost-effectiveness, particularly for assembly services provided by JLCPCB.
@@ -16,6 +16,12 @@ However, they are primarily optimized for availability and cost-effectiveness, p
 
 ![OBSmini_PCB_TOP](https://github.com/MegaC-C/OBSmini_hardware/assets/59622754/084783b6-e975-47cb-9078-59f3e9be8290)
 ![OBSmini_PCB_BOTTOM](https://github.com/MegaC-C/OBSmini_hardware/assets/59622754/677102eb-12ff-4518-bbf8-132eba382837)
+
+## NFC Antenna PCB
+
+This is simply a PCB antenna tuned to the NFC pins of the nRF52833.
+
+![NFC_PCB_antenna](https://github.com/MegaC-C/OBSmini_hardware/assets/59622754/2affce27-9c5b-4fa7-bab3-95f43ccc7d69)
 
 
 
